@@ -1,0 +1,15 @@
+C:\Users\Donation\source\repos\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.exe
+C:\Users\Donation\source\repos\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.deps.json
+C:\Users\Donation\source\repos\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.runtimeconfig.json
+C:\Users\Donation\source\repos\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.runtimeconfig.dev.json
+C:\Users\Donation\source\repos\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.dll
+C:\Users\Donation\source\repos\CSVReader\bin\Debug\netcoreapp3.1\CSVReader.pdb
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.csprojAssemblyReference.cache
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.Form1.resources
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.csproj.GenerateResource.cache
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.AssemblyInfoInputs.cache
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.AssemblyInfo.cs
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.csproj.CoreCompileInputs.cache
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.dll
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.pdb
+C:\Users\Donation\source\repos\CSVReader\obj\Debug\netcoreapp3.1\CSVReader.genruntimeconfig.cache
