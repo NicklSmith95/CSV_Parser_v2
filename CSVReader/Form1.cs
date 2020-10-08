@@ -8,7 +8,7 @@ using System.Windows.Forms;
 namespace CSVReader
 {//Form Class (Form1.cs)
     public partial class Form1 : Form
-    {//GetData Constructor
+    {//Method to return MyData List
 		private List<MyData> GetData(string filePath)
         {//Makes lists, stores in variable called results
 			List<MyData> results = new List<MyData>();
